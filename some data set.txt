@@ -2,3 +2,4 @@ http://www.cnblogs.com/huashiyiqike/p/3778035.html
 
 
 the installation of matconvNet for matlab 
+http://blog.csdn.net/xuezhisdc/article/details/47257421
